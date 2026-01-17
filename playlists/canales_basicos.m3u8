@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Lista básica de prueba
+
+#EXTINF:-1,TVE 1
+http://example.com/tve1.ts?_t=123456
+
+#EXTINF:-1,Antena 3
+http://example.com/a3.ts?_t=123456
+
+#EXTINF:-1,Telecinco
+http://example.com/telecinco.ts?_t=123456
+
+#EXTINF:-1,La Sexta
+http://example.com/lasexta.ts?_t=123456
+
+#EXTINF:-1,Cuatro
+http://example.com/cuatro.ts?_t=123456
+
+#EXT-X-ENDLIST

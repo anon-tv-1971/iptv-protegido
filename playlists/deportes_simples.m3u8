@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Deportes básicos
+
+#EXTINF:-1,Deportes 1
+http://sports.example.com/d1.ts?_t=123456
+
+#EXTINF:-1,Deportes 2
+http://sports.example.com/d2.ts?_t=123456
+
+#EXTINF:-1,Fútbol
+http://sports.example.com/futbol.ts?_t=123456
+
+#EXTINF:-1,Tenis
+http://sports.example.com/tenis.ts?_t=123456
+
+#EXT-X-ENDLIST
